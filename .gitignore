@@ -1,1 +1,12 @@
-.venv
+# Large data files
+stream.csv
+chat.csv
+twitch.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# VS Code
+.vscode/
