@@ -70,6 +70,11 @@ Open queries.sql and run the queries in order. The file is organized into the or
 ## Key Insights
 See insights.md for a summary of the main findings from the analysis.
 
-## Author
-Randall James
-[GitHub](https://github.com/senseirandystl) | [LinkedIn](https://www.linkedin.com/in/randall-james-stl/)
+---
+
+**About Me**  
+Randall James | Data Coordinator / Data Analyst / Project Manager  
+St. Louis, MO (O'Fallon area) | Open to remote, hybrid, or on-site within ~30 min commute  
+[LinkedIn](https://www.linkedin.com/in/randall-james-stl) | [GitHub](https://github.com/senseirandystl) | randalljames34@pm.me
+
+*This project was created as part of my professional portfolio to demonstrate data analysis capabilities.*
